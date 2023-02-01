@@ -1,0 +1,43 @@
+#logo {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid red;
+    width: 300px;
+    text-align: center;
+}
+
+#images {
+    width: 100%;
+    text-align: center;
+}
+  
+#person, #starShip {
+    border: 5px solid black;
+    width: 144px;
+    height: 100px;
+    cursor: pointer;
+}
+  
+#previous {
+    background-color: black;
+    color: red;
+    float: left;
+}
+  
+#next {
+    background-color: black;
+    color: red;
+    float: right;
+}
+#personsTable {
+    background-color: black;
+    color: red;
+    border-color: red;
+
+}
+
+#starships {
+    background-color: black;
+    color: red;
+    border-color: red;
+}
